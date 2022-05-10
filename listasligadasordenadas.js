@@ -1,3 +1,6 @@
+/*
+Será usada para armazenar os prédios de uma rua com apenas uma saída.
+*/
 class Node{
     constructor(data, next){
         this.data = data;
