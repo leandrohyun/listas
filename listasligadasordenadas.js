@@ -1,5 +1,5 @@
 /*
-Será usada para armazenar os prédios de uma rua com apenas uma saída.
+Será usada para armazenar os prédios de acordo com a quantidade de moradores.
 */
 class Node{
     constructor(data, next){
